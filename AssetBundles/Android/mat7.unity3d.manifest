@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 153128371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b384ede944ad5d4a1e82023d750bee86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d1bbda6b47c8af72022fe7ef4d8576
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/Mat7.mat
+Dependencies:
+- AssetBundles/Android/texture.unity3d

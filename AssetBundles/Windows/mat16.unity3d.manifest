@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3267776063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b2c377d73b5c2627da6d07fd9bcc7fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d1bbda6b47c8af72022fe7ef4d8576
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/Mat16.mat
+Dependencies:
+- AssetBundles/Windows/texture.unity3d
+- AssetBundles/Windows/shader.unity3d

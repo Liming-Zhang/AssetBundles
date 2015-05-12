@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3773472435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3725eb21232cce17a675bbdb63bcdfd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5cece750d5fa8010c17a31bce9a4df9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d70b6bff92f773c4989c2cdb2ed054fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/ShaderList.prefab
+- Assets/TestAssets/MyShader.shader
+Dependencies: []

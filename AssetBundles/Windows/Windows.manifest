@@ -1,0 +1,210 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: variants/myassets.hd
+      Dependencies: {}
+    Info_2:
+      Name: variants/variant-scene.unity3d
+      Dependencies:
+        Dependency_0: variants/myassets.hd
+    Info_3:
+      Name: variants/myassets.sd
+      Dependencies: {}
+    Info_4:
+      Name: texture.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: mat1.unity3d
+    Info_6:
+      Name: sphere.unity3d
+      Dependencies:
+        Dependency_0: mat1.unity3d
+    Info_7:
+      Name: shader.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: mat1.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_9:
+      Name: mat2.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_10:
+      Name: mat3.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_11:
+      Name: mat4.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_12:
+      Name: mat5.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_13:
+      Name: mat6.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_14:
+      Name: mat7.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_15:
+      Name: mat8.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_16:
+      Name: mat9.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_17:
+      Name: mat10.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_18:
+      Name: mat11.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_19:
+      Name: mat12.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_20:
+      Name: mat13.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_21:
+      Name: mat14.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_22:
+      Name: mat15.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_23:
+      Name: mat16.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_24:
+      Name: mat17.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_25:
+      Name: mat18.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_26:
+      Name: mat19.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_27:
+      Name: mat20.unity3d
+      Dependencies:
+        Dependency_0: texture.unity3d
+        Dependency_1: shader.unity3d
+    Info_28:
+      Name: enemy1.unity3d
+      Dependencies:
+        Dependency_0: mat1.unity3d
+    Info_29:
+      Name: enemy2.unity3d
+      Dependencies:
+        Dependency_0: mat2.unity3d
+    Info_30:
+      Name: enemy3.unity3d
+      Dependencies:
+        Dependency_0: mat3.unity3d
+    Info_31:
+      Name: enemy4.unity3d
+      Dependencies:
+        Dependency_0: mat4.unity3d
+    Info_32:
+      Name: enemy5.unity3d
+      Dependencies:
+        Dependency_0: mat5.unity3d
+    Info_33:
+      Name: enemy6.unity3d
+      Dependencies:
+        Dependency_0: mat6.unity3d
+    Info_34:
+      Name: enemy7.unity3d
+      Dependencies:
+        Dependency_0: mat7.unity3d
+    Info_35:
+      Name: enemy8.unity3d
+      Dependencies:
+        Dependency_0: mat8.unity3d
+    Info_36:
+      Name: enemy9.unity3d
+      Dependencies:
+        Dependency_0: mat9.unity3d
+    Info_37:
+      Name: enemy10.unity3d
+      Dependencies:
+        Dependency_0: mat10.unity3d
+    Info_38:
+      Name: enemy11.unity3d
+      Dependencies:
+        Dependency_0: mat11.unity3d
+    Info_39:
+      Name: enemy12.unity3d
+      Dependencies:
+        Dependency_0: mat12.unity3d
+    Info_40:
+      Name: enemy14.unity3d
+      Dependencies:
+        Dependency_0: mat14.unity3d
+    Info_41:
+      Name: enemy13.unity3d
+      Dependencies:
+        Dependency_0: mat13.unity3d
+    Info_42:
+      Name: enemy15.unity3d
+      Dependencies:
+        Dependency_0: mat15.unity3d
+    Info_43:
+      Name: enemy16.unity3d
+      Dependencies:
+        Dependency_0: mat16.unity3d
+    Info_44:
+      Name: enemy17.unity3d
+      Dependencies:
+        Dependency_0: mat17.unity3d
+    Info_45:
+      Name: enemy18.unity3d
+      Dependencies:
+        Dependency_0: mat18.unity3d
+    Info_46:
+      Name: enemy19.unity3d
+      Dependencies:
+        Dependency_0: mat19.unity3d
+    Info_47:
+      Name: enemy20.unity3d
+      Dependencies:
+        Dependency_0: mat20.unity3d

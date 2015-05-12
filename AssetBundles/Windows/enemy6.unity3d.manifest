@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3381461076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efb49ec180ab4bbc525613714522d895
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b48512e76a399fa93fec0e05f11e6b89
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eeeb4a6c84da99143b44bf99cd7db0b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/Enemy6.prefab
+Dependencies:
+- AssetBundles/Windows/mat6.unity3d
