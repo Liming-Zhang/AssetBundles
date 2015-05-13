@@ -1,25 +1,16 @@
 ManifestFileVersion: 0
-CRC: 512064231
+CRC: 1897941005
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ffcfb30cad9c414d426a58a7d255404
+    Hash: 32e18ab36ce6d93067e914a3d9a644c0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c5cece750d5fa8010c17a31bce9a4df9
+    Hash: c1089fea0bc7521f04d7ee9836950478
 HashAppended: 0
 ClassTypes:
-- Class: 1
-  Script: {instanceID: 0}
-- Class: 4
-  Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: d70b6bff92f773c4989c2cdb2ed054fd, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
 Assets:
-- Assets/TestAssets/ShaderList.prefab
 - Assets/TestAssets/MyShader.shader
 Dependencies: []
